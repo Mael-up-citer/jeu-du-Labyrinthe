@@ -39,8 +39,8 @@ Le "Jeu du Labyrinthe" est une simulation de recherche de sortie dans un labyrin
    - Une fois le projet compilé, cliquez sur "Run" pour démarrer le jeu.
 
 4. **Contrôles du Jeu :**
-   - Utilisez les touches directionnelles pour vous déplacer dans le labyrinthe.
-   - Le nombre de coups et le temps sont affichés pendant la partie.
+   - Utilisez les touches zqsd.
+   - Le nombre de coups restant est affiché pendant la partie.
 
 ## Règles du Jeu
 
